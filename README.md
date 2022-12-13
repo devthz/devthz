@@ -24,6 +24,11 @@
 </div>
   
 ![Snake animation](https://github.com/devthz/devthz/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="center"> 
+  Contador de visitas<br>
+  <img src="https://profile-counter.glitch.me/devthz/count.svg" />
+</p>
 
 
 ##
