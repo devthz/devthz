@@ -1,8 +1,8 @@
 ## Sejam bem-vindos! Eu sou o Thiago Henrique 
 <div align="center">
   <a href="https://github.com/devthz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devthz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthz&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devthz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthz&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thz-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
