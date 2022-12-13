@@ -1,4 +1,4 @@
-## Oiii eu sou o Thiago Henrique, entusiada do mundo de dados
+## Sejam bem-vindos! Eu sou o Thiago Henrique 
 <div align="center">
   <a href="https://github.com/devthz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devthz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
@@ -26,51 +26,7 @@
 ![Snake animation](https://github.com/devthz/devthz/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Olá! Eu sou o Thiago Henrique
-
-- 🔭 Hoje trabalho com Data Analistcs 
+##
+ 
 - 🌱 Estudando C e Python
 - 📫 Contate-me no email: devthz@gmail.com
-- 😄 Pronouns: ele/dele
