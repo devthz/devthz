@@ -35,5 +35,5 @@
 
 ##
  
-- 🌱 Estudando C e Python
+- 📘 Cientista de Dados
 - 📫 Contate-me no email: devthz@gmail.com
