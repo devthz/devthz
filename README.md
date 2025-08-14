@@ -20,17 +20,7 @@
   <a href="https://www.instagram.com/httpthz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/devthz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:devthz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiagohsa22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-
-</div>
-  
-![Snake animation](https://github.com/devthz/devthz/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="center"> 
-  Contador de visitas<br>
-  <img src="https://profile-counter.glitch.me/devthz/count.svg" />
-</p>
+  <a href="https://www.linkedin.com/in/thiagohsa22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 
 ##
